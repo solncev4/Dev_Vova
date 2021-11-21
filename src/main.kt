@@ -3,5 +3,6 @@ fun main() {
 }
 
 fun Vova() {
-    println("Это тест - Git Привет!")
+    print("Это тест - Git Привет!\n")
+    println("Это первое изменение!")
 }
